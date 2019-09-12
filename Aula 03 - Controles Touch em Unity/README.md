@@ -30,7 +30,7 @@ Antes de mais nada, vamos dar uma olhada na cena que eu preparei para o exemplo 
 
 Muito bem, aqui temos uma cena bem simples. Um personagem que é esse monstrinho marrom, e uns terrenos. O monstrinho pode andar e pular. Só isso.
 
-Com o celular preparado com o Unity Remote, como eu ensinei na [última aula](), tudo que eu preciso fazer é dar Play.
+Com o celular preparado com o Unity Remote, como eu ensinei na [última aula](https://github.com/Arcaedion/Curso-Jogos-Mobile/tree/master/Aula%2002%20-%20Configurando%20o%20Unity), tudo que eu preciso fazer é dar Play.
 
 Vai ficar esquisito, o celular tá em modo __Retrato__ :iphone:, e se a gente __virar de lado__, fica em paisagem e ta tudo ok. Mas, no momento, __não adianta eu apertar nada__, afinal, nada funciona aqui. E é isso que vamos fazer, mas primeiro vamos __desabilitar__ a rotação da tela indo em:
 
