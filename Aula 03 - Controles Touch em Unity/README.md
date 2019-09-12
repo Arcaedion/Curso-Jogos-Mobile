@@ -26,7 +26,11 @@ Um dos __desafios__ de fazer um jogo multiplataforma é que temos que contar com
 
 ## Testando a nova cena 
 
-Antes de mais nada, vamos dar uma olhada na cena que eu preparei para o exemplo dessa aula. Você pode baixar todos os assets aqui:
+Antes de mais nada, vamos dar uma olhada na cena que eu preparei para o exemplo dessa aula. 
+
+__Você pode baixar todos os assets clicando [AQUI](https://github.com/Arcaedion/Curso-Jogos-Mobile/raw/master/Aula%2003%20-%20Controles%20Touch%20em%20Unity/Aula%203%20-%20Joystick%20Virtual%20assets.zip)__
+
+
 
 Muito bem, aqui temos uma cena bem simples. Um personagem que é esse monstrinho marrom, e uns terrenos. O monstrinho pode andar e pular. Só isso.
 
