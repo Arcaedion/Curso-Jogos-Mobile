@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Chao
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Fundo
+    uniqueID: 2636033811
+    locked: 0
+  - name: Meio
+    uniqueID: 2640888203
+    locked: 0
+  - name: Frente
+    uniqueID: 53231867
     locked: 0
