@@ -6,7 +6,7 @@ Link para vídeo aula:
 
 ## Download dos Assets
 
-[Clique Aqui!](https://github.com/Arcaedion/Curso-Jogos-Mobile/blob/master/Aula%2004%20-%20Gestos%20Swipe%20em%20Unity/Aula%204%20-%20Swipe.zip)
+[Clique Aqui!](https://github.com/Arcaedion/Curso-Jogos-Mobile/raw/master/Aula%2004%20-%20Gestos%20Swipe%20em%20Unity/Aula%204%20-%20Swipe.zip)
 
 ## Aula Escrita
 
