@@ -2,7 +2,7 @@
 
 ## Vídeo-aula
 
-Link para vídeo aula: 
+Link para vídeo aula: https://youtu.be/iT3qaOnEriE
 
 ## Download dos Assets
 
