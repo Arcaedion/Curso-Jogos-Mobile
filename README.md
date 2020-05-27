@@ -4,7 +4,9 @@
 
 O melhor curso para criação de jogos para celular em Unity das Galáxias!
 
-# O melhor curso de programação das galáxias!
+## Servidor do Discord
+
+Dúvidas? Procure ajuda no nosso Discord: https://discord.gg/kEjJ8ax
 
 ## Modo de uso desse repositório
 
@@ -14,7 +16,7 @@ As pastas estão divididas em Aulas e AulasExtra. As aulas extras são assuntos 
 
 ## 1. Baixe a última versão do Git para seu sistema operacional em:
 
-    https://git-scm.com/downloads
+https://git-scm.com/downloads
 
 
 ### 2. Após a instalação, você tem algumas opções dependendo do que pretende fazer: Fork ou Clone
